@@ -55,7 +55,7 @@ Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
 Clone the repository: 
-https://github.com/sushantkumbhar99/Full_Stack_Project_EntertainmentApp.git
+https://github.com/Prasanjitprusty/Entertainment123.git
 
 Install dependencies:
 npm install
